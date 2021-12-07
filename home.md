@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome Back.
-subtitle: It's been a long, long time...
+subtitle: It's been a long time...
 ---
 
 ![Science Place 1 Exterior Night view](/assets/img/sp1_night_2021.jpg)
