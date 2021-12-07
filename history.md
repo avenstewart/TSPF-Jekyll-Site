@@ -2,6 +2,9 @@
 layout: page
 title: Where Innovation Began...
 subtitle: What was The Science Place, and what happened to it?
+cover-img: /assets/img/deep_field_backing.png
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 tags: [dallas, history, science place, introduction]
 comments: true
 ---
@@ -89,6 +92,6 @@ were moved to the new facility downtown, and all former Science Place buildings 
 {: .box-note}
 Photo courtesy of The Perot Museum of Nature and Science.
 
-As the final evolution of The Science Place, The Perot museum represents the culmination of over 75 years of dedicated 
+As the successor to The Science Place, The Perot museum represents the culmination of over 75 years of dedicated 
 work by countless individuals and organizations to create the museum of the future. It remains in operation to this day 
 and boasts an incredible array of interactive exhibits and collections. 
