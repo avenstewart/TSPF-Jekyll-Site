@@ -1,0 +1,16 @@
+table {
+    width:100%;
+}
+table, tr, td {
+    border: none !important;
+    background-color: rgba(0, 0, 0, 0.0) !important;
+}
+td {
+    text-align:center !important;
+}
+tbody {
+    text-align:center;
+}
+td {
+    width: 33.3%;
+}
