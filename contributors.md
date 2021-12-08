@@ -40,6 +40,8 @@ and worked hard to help us preserve its memory. We do what we can to show our th
 
 <tr>
 <td>Brittany VanGordon</td>
+<td>Joseph Miller</td>
+
 </tr>
 </table>
 

@@ -65,8 +65,8 @@ Science Place I. We are still discovering new things about this time period ever
 {: .box-note}
 Photo taken from WayBack Machine archive of thescienceplace.org, circa 2003
 
-This year marked the construction and expansion of Science Place I. Often referred to as "The Palazzo", this addition 
-included a state-of-the-art IMAX Theatre, as well as a beautiful solar system floor which remains there to this day. 
+This year marked the construction and expansion of Science Place I. This addition 
+included a state-of-the-art IMAX Theatre, as well as a beautiful terrazzo floor which remains there to this day. 
 During this time, we also see a revitalization of The Science Place branding to feature the familiar "stars and planets" 
 and "T.I. Founders" tagline. 
 
