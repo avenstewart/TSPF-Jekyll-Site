@@ -41,7 +41,19 @@ and worked hard to help us preserve its memory. We do what we can to show our th
 <tr>
 <td>Brittany VanGordon</td>
 <td>Joseph Miller</td>
+<td>Micheal Hubbard</td>
+</tr>
 
+<tr>
+<td>Elaine P. Wildman</td>
+<td>David Overton</td>
+<td>Andrew Boerder</td>
+</tr>
+
+<tr>
+<td>Elise Broadway</td>
+<td>Alex D. Macon</td>
+<td></td>
 </tr>
 </table>
 
@@ -54,6 +66,4 @@ Action Video Service</a></td></tr>
 <tr><td><a href="https://dallascityhall.com/government/citysecretary/archives/Pages/Archives_home.aspx">
 Dallas Municipal Archives</a></td></tr>
 
-<tr><td><a href="https://www.perotmuseum.org/">
-The Perot Museum of Nature and Science</a></td></tr>
 </table>

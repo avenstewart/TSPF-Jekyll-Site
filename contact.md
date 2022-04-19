@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [foundation, about, mission, museum, archive, data]
 ---
 
-You can reach out to us at any time. <a href="mailto:contact@scienceplacefoundation.org">click here</a> to send us an email. We're happy to talk about
+You can reach out to us at any time. <a href="mailto:contact@scienceplacefoundation.org">Click here</a> to send us an email. We're happy to talk about
 
  - Archive submissions/requests
 
