@@ -2,9 +2,9 @@
 layout: page
 title: Where Innovation Began...
 subtitle: What was The Science Place, and what happened to it?
-cover-img: /assets/img/deep_field_backing.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: https://scienceplacefoundation.org/assets/img/deep_field_backing.png
+thumbnail-img: https://scienceplacefoundation.org/assets/img/thumb.png
+share-img: https://scienceplacefoundation.org/assets/img/path.jpg
 tags: [dallas, history, science place, introduction]
 comments: true
 ---
