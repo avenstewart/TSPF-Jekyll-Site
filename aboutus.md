@@ -2,9 +2,9 @@
 layout: page
 title: About Us
 subtitle: What is The Science Place Foundation?
-cover-img: /assets/img/deep_field_backing.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: https://scienceplacefoundation.org/assets/img/deep_field_backing.png
+thumbnail-img: https://scienceplacefoundation.org/assets/img/thumb.png
+share-img: https://scienceplacefoundation.org/assets/img/path.jpg
 tags: [foundation, about, mission, museum, archive, data]
 ---
 
