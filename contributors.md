@@ -53,8 +53,15 @@ and worked hard to help us preserve its memory. We do what we can to show our th
 <tr>
 <td>Elise Broadway</td>
 <td>Alex D. Macon</td>
+<td>Kyle Layne</td>
+</tr>
+
+<tr>
+<td>Brice Praslicka</td>
+<td></td>
 <td></td>
 </tr>
+
 </table>
 
 <hr>
