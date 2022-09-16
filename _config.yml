@@ -43,11 +43,8 @@ social-network-links:
   email: "contact@scienceplacefoundation.org"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: tsparchive
-#  github: daattali
   twitter: TSPArchive
-#  patreon: DeanAttali
   youtube: channel/UCbOBhlf-1ldxWk6BMk7uAlg
-#  medium: yourname
   reddit: TheSciencePlace
 #  linkedin: daattali
 #  xing: yourname
@@ -119,7 +116,8 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/htc_banner_nav.png"
-#footer-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"#  medium: yourname
+
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

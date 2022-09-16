@@ -58,8 +58,8 @@ and worked hard to help us preserve its memory. We do what we can to show our th
 
 <tr>
 <td>Brice Praslicka</td>
-<td></td>
-<td></td>
+<td>Samantha Vokey</td>
+<td>Andy Epps</td>
 </tr>
 
 </table>
