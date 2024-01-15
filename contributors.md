@@ -11,8 +11,8 @@ tags: [foundation, about, mission, museum, archive, data]
 ## We Couldn't Do It Without You
 
 The names on this page are of those who have helped us achieve our goals in many ways.
-Among them are scientists, educators, researchers, former science place employees, journalists, and many people who 
-grew up at The Science Place. All of these individuals and organizations share our love for this unique place in time, 
+Among them are scientists, educators, researchers, former science place employees, journalists, and many people who
+grew up at The Science Place. All of these individuals and organizations share our love for this unique place in time,
 and worked hard to help us preserve its memory. We do what we can to show our thanks, but it will never be enough. This list will update continuously to reflect our most recent contributions.
 
 <hr>
@@ -22,8 +22,8 @@ and worked hard to help us preserve its memory. We do what we can to show our th
 
 <tr>
 <td>Lloyd Ritchey</td>
-<td>John Slate</td>
 <td>Paul Vinson</td>
+<td>Mary Vinson</td>
 </tr>
 
 <tr>
@@ -45,9 +45,15 @@ and worked hard to help us preserve its memory. We do what we can to show our th
 </tr>
 
 <tr>
+<td>Aven G. Stewart</td>
+<td>Bailey E. Turfitt</td>
+<td>Andrew Boerder</td>
+</tr>
+
+<tr>
 <td>Elaine P. Wildman</td>
 <td>David Overton</td>
-<td>Andrew Boerder</td>
+<td>Karen Eubank</td>
 </tr>
 
 <tr>
@@ -62,6 +68,44 @@ and worked hard to help us preserve its memory. We do what we can to show our th
 <td>Andy Epps</td>
 </tr>
 
+<tr>
+<td>Marilyn Waters</td>
+<td>Sherry Hilliard</td>
+<td>Megan Parry</td>
+</tr>
+
+<tr>
+<td>Harrison Bleiberg</td>
+<td>Larry Bleiberg</td>
+<td>Samantha Vokey</td>
+</tr>
+
+<tr>
+<td>Barbara Holme</td>
+<td>Cole Scott</td>
+<td>Paul Riddell</td>
+</tr>
+
+<tr>
+<td>Karen Eubank</td>
+<td>Jack Hull</td>
+<td>Jason Cohen</td>
+</tr>
+
+<tr>
+<td>John Wylie</td>
+<td>Todd Kent</td>
+<td>John Slate</td>
+</tr>
+
+<tr>
+<td>Claudia Bricker</td>
+<td>Rowan Barcham</td>
+<td>Bill Smith</td>
+</tr>
+
+
+
 </table>
 
 <hr>
@@ -72,5 +116,11 @@ Action Video Service</a></td></tr>
 
 <tr><td><a href="https://dallascityhall.com/government/citysecretary/archives/Pages/Archives_home.aspx">
 Dallas Municipal Archives</a></td></tr>
+
+<tr><td><a href="https://www.dallashistory.org/">
+Dallas Historical Society</a></td></tr>
+
+<tr><td><a href="https://gphotx.org/">
+Grand Prairie Historical Organization</a></td></tr>
 
 </table>
